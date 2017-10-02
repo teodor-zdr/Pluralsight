@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/12-java-fundamentals-language-m12-exercise-files/before/CalcEngine/CalcEngine.iml" filepath="$PROJECT_DIR$/12-java-fundamentals-language-m12-exercise-files/before/CalcEngine/CalcEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/before/CalcEngine/CalcEngine1.iml" filepath="$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/before/CalcEngine/CalcEngine1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-java-fundamentals-language-m8-exercise-files/before/CalcEngine/CalcEngine10.iml" filepath="$PROJECT_DIR$/8-java-fundamentals-language-m8-exercise-files/before/CalcEngine/CalcEngine10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-java-fundamentals-language-m10-exercise-files/before/CalcEngine/CalcEngine11.iml" filepath="$PROJECT_DIR$/10-java-fundamentals-language-m10-exercise-files/before/CalcEngine/CalcEngine11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-java-fundamentals-language-m9-exercise-files/after/CalcEngine/CalcEngine12.iml" filepath="$PROJECT_DIR$/9-java-fundamentals-language-m9-exercise-files/after/CalcEngine/CalcEngine12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/CalcEngine/CalcEngine13.iml" filepath="$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/CalcEngine/CalcEngine13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/CalcEngine/CalcEngine14.iml" filepath="$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/CalcEngine/CalcEngine14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-java-fundamentals-language-m7-exercise-files/after/CalcEngine/CalcEngine15.iml" filepath="$PROJECT_DIR$/7-java-fundamentals-language-m7-exercise-files/after/CalcEngine/CalcEngine15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-java-fundamentals-language-m10-exercise-files/after/CalcEngine/CalcEngine16.iml" filepath="$PROJECT_DIR$/10-java-fundamentals-language-m10-exercise-files/after/CalcEngine/CalcEngine16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9-java-fundamentals-language-m9-exercise-files/before/CalcEngine/CalcEngine2.iml" filepath="$PROJECT_DIR$/9-java-fundamentals-language-m9-exercise-files/before/CalcEngine/CalcEngine2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-java-fundamentals-language-m5-exercise-files/after/CalcEngine/CalcEngine3.iml" filepath="$PROJECT_DIR$/5-java-fundamentals-language-m5-exercise-files/after/CalcEngine/CalcEngine3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8-java-fundamentals-language-m8-exercise-files/after/CalcEngine/CalcEngine4.iml" filepath="$PROJECT_DIR$/8-java-fundamentals-language-m8-exercise-files/after/CalcEngine/CalcEngine4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-java-fundamentals-language-m12-exercise-files/after/CalcEngine/CalcEngine5.iml" filepath="$PROJECT_DIR$/12-java-fundamentals-language-m12-exercise-files/after/CalcEngine/CalcEngine5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-java-fundamentals-language-m6-exercise-files/before/CalcEngine/CalcEngine6.iml" filepath="$PROJECT_DIR$/6-java-fundamentals-language-m6-exercise-files/before/CalcEngine/CalcEngine6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5-java-fundamentals-language-m5-exercise-files/before/CalcEngine/CalcEngine7.iml" filepath="$PROJECT_DIR$/5-java-fundamentals-language-m5-exercise-files/before/CalcEngine/CalcEngine7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6-java-fundamentals-language-m6-exercise-files/after/CalcEngine/CalcEngine8.iml" filepath="$PROJECT_DIR$/6-java-fundamentals-language-m6-exercise-files/after/CalcEngine/CalcEngine8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7-java-fundamentals-language-m7-exercise-files/before/CalcEngine/CalcEngine9.iml" filepath="$PROJECT_DIR$/7-java-fundamentals-language-m7-exercise-files/before/CalcEngine/CalcEngine9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/before/HelloNetBeans/HelloNetBeans.iml" filepath="$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/before/HelloNetBeans/HelloNetBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/HelloNetBeans/HelloNetBeans1.iml" filepath="$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/HelloNetBeans/HelloNetBeans1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/HelloNetBeans/HelloNetBeans2.iml" filepath="$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/HelloNetBeans/HelloNetBeans2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/LetsGetLogical/LetsGetLogical.iml" filepath="$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/LetsGetLogical/LetsGetLogical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/before/LetsGetLogical/LetsGetLogical1.iml" filepath="$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/before/LetsGetLogical/LetsGetLogical1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/before/MathOrder/MathOrder.iml" filepath="$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/before/MathOrder/MathOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/after/MathOrder/MathOrder1.iml" filepath="$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/after/MathOrder/MathOrder1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/NestedIfs/NestedIfs.iml" filepath="$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/after/NestedIfs/NestedIfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/before/NestedIfs/NestedIfs1.iml" filepath="$PROJECT_DIR$/4-java-fundamentals-language-m4-exercise-files/before/NestedIfs/NestedIfs1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/Organized/Organized.iml" filepath="$PROJECT_DIR$/2-java-fundamentals-language-m2-exercise-files/after/Organized/Organized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/after/TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/after/TypeConversion/TypeConversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/before/TypeConversion/TypeConversion1.iml" filepath="$PROJECT_DIR$/3-java-fundamentals-language-m3-exercise-files/before/TypeConversion/TypeConversion1.iml" />
+    </modules>
+  </component>
+</project>

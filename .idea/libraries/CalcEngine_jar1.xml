@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CalcEngine_jar1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/CalcEngine/out/artifacts/CalcEngine_jar/CalcEngine.zip!/" />
+      <root url="jar://$PROJECT_DIR$/11-java-fundamentals-language-m11-exercise-files/after/CalcEngine/out/artifacts/CalcEngine_jar/CalcEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
